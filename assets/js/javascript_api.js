@@ -19,7 +19,7 @@ function getData() {
         author.forEach(function(lists) {
           output += `
                    <br>
-                    <div class="card mx-auto bg-dark" style="width: 18rem; color: white;">
+                    <div class="card mx-auto bg-dark" style="width: 25rem; color: white;">
                         <img src="${lists.picture.large}" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h4 class="card-title">${lists.name.first}</h4>

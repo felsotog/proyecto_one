@@ -146,3 +146,15 @@ body.claro #activoTxtNav{
 body.claro #sol{
   color: #ffc107;
 }
+
+@media screen and (min-width: 601px) {
+  div.rs {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.rs {
+    font-size: 20px;
+  }
+}
