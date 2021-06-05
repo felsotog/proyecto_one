@@ -81,7 +81,7 @@ function resetear() {
       var de=document.getElementById("de").value;
       var a=document.getElementById("a").value;
       var dolar=720;
-      var euro=879;
+      var euro=872;
       var resultado=0;
 
       //peso a dolar
